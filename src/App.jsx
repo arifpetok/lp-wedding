@@ -1,8 +1,8 @@
 function App() {
   return (
     <>
-      <section className="h-screen flex items-center justify-center bg-hero bg-cover bg-center bg-regal-blue/[0.73]">
-        <div className="p-16 rounded-3xl text-center text-white bg-regal-blue2/[0.239]">
+      <section className="px-3 h-screen flex items-center justify-center bg-hero bg-cover bg-center bg-regal-blue/[0.73] overflow-hidden">
+        <div className="w-[450px] h-[450px] flex items-center justify-center rounded-[10%] text-center text-white bg-regal-blue2/[0.239]">
           <div>
             <div className="relative">
               <img
@@ -32,7 +32,7 @@ function App() {
             <div className="relative">
               <img
                 src="../index-flower.png"
-                className="absolute bottom-[-150px]"
+                className="absolute bottom-[-165px]"
                 alt=""
               />
             </div>
