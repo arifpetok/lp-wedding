@@ -6,7 +6,7 @@ function App() {
           <div>
             <div className="relative">
               <img
-                src="../public/index-flower.png"
+                src="../index-flower.png"
                 className="absolute top-[-170px] -scale-y-100"
                 alt=""
               />
@@ -31,7 +31,7 @@ function App() {
             </div>
             <div className="relative">
               <img
-                src="../public/index-flower.png"
+                src="../index-flower.png"
                 className="absolute bottom-[-150px]"
                 alt=""
               />
