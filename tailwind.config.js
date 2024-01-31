@@ -20,7 +20,8 @@ export default {
         'hero': "url('/bg-flower.png')",
       },
       fontFamily:{
-        'primary': ['Dancing Script']
+        'primary': ['Dancing Script'],
+        'secondary': ['Noto Sans']
       }
     },
   },
